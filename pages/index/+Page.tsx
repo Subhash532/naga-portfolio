@@ -6,7 +6,7 @@ export default function Page() {
     // <div style={{ maxWidth: 980, margin: "0 auto", padding: "40px 20px", fontFamily: "system-ui" }}>
     <div style={{ maxWidth: 980, margin: "0 auto", padding: "56px 20px" }}>
       <nav style={{ display: "flex", justifyContent: "space-between", alignItems: "center",marginBottom: 40, }}>
-        <div style={{ fontWeight: 800 }}>Naga</div>
+        <div style={{ fontWeight: 800 }}>Naga Mutya Kumar Kumtsam</div>
         <div style={{ display: "flex", gap: 20, fontWeight: 500 }}>
           <a href="#academic-project">Projects</a>
           <a href="#experience">Experience</a>
